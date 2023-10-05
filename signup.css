@@ -1,0 +1,76 @@
+body{
+    background: linear-gradient(rgb(0,0,0,0.7),rgb(0,0,0,0.7)),url("green.jpg");
+    height: 700px;
+    padding: 100px;
+}
+
+#allsecc{
+    max-width: 400px;
+    margin: auto;
+    background-color: rgba(255, 255, 255, 0.64);
+    padding: 10px;
+    border-radius: 20px;
+}
+.headings{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-weight: 900;
+}
+.emmm{
+    width: 98%;
+    padding: 18px 0px;
+    font-weight: 550;
+    border-color: rgba(128, 128, 128, 0.238);
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.519);
+    border: transparent;
+}
+.emmmm{
+    width: 98%;
+    padding: 18px 0px;
+    font-weight: 550;
+    border-color: rgba(128, 128, 128, 0.238);
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.519);
+    border: transparent;
+}
+.emmmmm{
+    width: 98%;
+    padding: 18px 0px;
+    font-weight: 550;
+    border-color: rgba(128, 128, 128, 0.238);
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.519);
+    border: transparent;
+}
+.emmml{
+    width: 98%;
+    padding: 18px 0px;
+    font-weight: 550;
+    border-color: rgba(128, 128, 128, 0.238);
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.519);
+    border: transparent;
+}
+#checkk{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+.buttonn{
+    width: 100%;
+    padding: 15px;
+    color: white;
+    font-size: 17px; width: 100%;
+    border-radius: 25px;
+    border: transparent;
+    background-color: rgb(11, 43, 12);
+}
+.needd{
+    text-align: center;
+}
+.signn{
+    text-decoration: none;
+    color: rgb(219, 51, 51);
+}
+
